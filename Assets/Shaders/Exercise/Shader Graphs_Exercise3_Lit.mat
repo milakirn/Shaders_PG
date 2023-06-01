@@ -52,5 +52,6 @@ Material:
     - _QueueOffset: 0
     - _SnowStrength: 0
     - _TwirlStrength: 110
+    - _Twirl_Strenght: 0
     m_Colors: []
   m_BuildTextureStacks: []

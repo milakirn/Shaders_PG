@@ -338,25 +338,25 @@
     ],
     "m_VertexContext": {
         "m_Position": {
-            "x": -9.600025177001954,
-            "y": 55.199981689453128
+            "x": 533.9998779296875,
+            "y": 236.0
         },
         "m_Blocks": [
             {
                 "m_Id": "95e05029aa8046338f01b5952d0d8601"
             },
             {
-                "m_Id": "a476520e7ff44b4ea7e7f3566fb95a7c"
+                "m_Id": "c5afc1ed13924ad69cbd582e9c8e33b6"
             },
             {
-                "m_Id": "c5afc1ed13924ad69cbd582e9c8e33b6"
+                "m_Id": "a476520e7ff44b4ea7e7f3566fb95a7c"
             }
         ]
     },
     "m_FragmentContext": {
         "m_Position": {
-            "x": -9.59997272491455,
-            "y": 323.20001220703127
+            "x": 533.9998779296875,
+            "y": 553.9999389648438
         },
         "m_Blocks": [
             {
@@ -943,7 +943,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "5b726274f6b14c1e86a3e8b1dea13782",
     "m_Id": 0,
-    "m_DisplayName": "TwirlStrength",
+    "m_DisplayName": "Twirl_Strenght",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1007,7 +1007,7 @@
     "m_ShaderOutputName": "B",
     "m_StageCapability": 3,
     "m_Value": {
-        "e00": 10.0,
+        "e00": 20.0,
         "e01": 2.0,
         "e02": 2.0,
         "e03": 2.0,
@@ -1195,7 +1195,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Strength",
     "m_StageCapability": 3,
-    "m_Value": 10.0,
+    "m_Value": 30.06999969482422,
     "m_DefaultValue": 10.0,
     "m_Labels": []
 }
@@ -1434,10 +1434,10 @@
     "m_Guid": {
         "m_GuidSerialized": "0414328d-d9e9-41ca-abbf-b751680ae0c1"
     },
-    "m_Name": "TwirlStrength",
+    "m_Name": "Twirl_Strenght",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "TwirlStrength",
-    "m_DefaultReferenceName": "_TwirlStrength",
+    "m_RefNameGeneratedByDisplayName": "Twirl_Strenght",
+    "m_DefaultReferenceName": "_Twirl_Strenght",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1618,10 +1618,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -900.8001708984375,
-            "y": 267.1999816894531,
-            "width": 118.4000244140625,
-            "height": 148.80010986328126
+            "x": -931.0,
+            "y": 323.0,
+            "width": 119.0,
+            "height": 149.0
         }
     },
     "m_Slots": [
@@ -1808,10 +1808,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 0.0,
-            "y": 0.0,
-            "width": 0.0,
-            "height": 0.0
+            "x": 22.999866485595704,
+            "y": 147.00001525878907,
+            "width": 200.00009155273438,
+            "height": 41.00001525878906
         }
     },
     "m_Slots": [
@@ -1904,10 +1904,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -474.40020751953127,
-            "y": 200.0,
-            "width": 208.00003051757813,
-            "height": 301.60003662109377
+            "x": -401.0,
+            "y": 185.0,
+            "width": 208.0,
+            "height": 302.0
         }
     },
     "m_Slots": [
@@ -2131,7 +2131,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Rotation",
     "m_StageCapability": 3,
-    "m_Value": 90.0,
+    "m_Value": 0.0,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
@@ -2301,7 +2301,7 @@
     "m_StageCapability": 3,
     "m_Value": {
         "x": 0.0,
-        "y": -10.0
+        "y": 0.0
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -2434,10 +2434,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -244.0,
-            "y": 681.6000366210938,
-            "width": 208.00006103515626,
-            "height": 359.20013427734377
+            "x": 82.00009155273438,
+            "y": 554.0,
+            "width": 208.0,
+            "height": 361.0
         }
     },
     "m_Slots": [
@@ -2482,7 +2482,7 @@
     "m_CustomColors": {
         "m_SerializableColors": []
     },
-    "m_BlendMode": 1
+    "m_BlendMode": 7
 }
 
 {
@@ -2545,10 +2545,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1368.800048828125,
-            "y": 616.7999877929688,
-            "width": 145.5999755859375,
-            "height": 33.60003662109375
+            "x": -1397.0,
+            "y": 600.0,
+            "width": 146.0,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -2712,10 +2712,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -951.1998901367188,
-            "y": 1055.1998291015625,
-            "width": 117.59991455078125,
-            "height": 148.800048828125
+            "x": -975.9999389648438,
+            "y": 1055.0,
+            "width": 118.99993896484375,
+            "height": 149.0
         }
     },
     "m_Slots": [
